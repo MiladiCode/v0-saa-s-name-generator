@@ -11,8 +11,8 @@ export const metadata: Metadata = {
   description: 'Created with v0',
   generator: 'v0.app',
   other: {
-   "cryptomus" : "ca6bed69", // this adds <meta name="cryptomus" content="ca6bed69" />
-  }
+   "cryptomus" : "ca6bed69", // this adds <meta name="cryptomus" content="ca6bed69" /> 
+  },
 }
 
 export default function RootLayout({
